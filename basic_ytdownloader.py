@@ -1,5 +1,5 @@
 """
-How to use : python ytdownloader.py "http://www.youtube.com/watchxxxxx"
+How to use : python basic_ytdownloader.py "http://www.youtube.com/watchxxxxx"
 """
 
 from pytube import YouTube
